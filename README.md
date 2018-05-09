@@ -1,6 +1,6 @@
 # GBA Games Page:
 
-https://jsemu3.github.io/gba
+https://gbaiden.github.io/gba-emulator//
 
 # GBA Emulator Core Used:
 
